@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=xuB1Id2Wxak
 git init
 
 ## Syncing repos
-git remote add origin "link"
+git remote add origin "link" /n
 git pull origin master/branch
 ### push
 1. ssh-keygen
