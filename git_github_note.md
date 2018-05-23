@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=xuB1Id2Wxak
 git init
 
 ## Syncing repos
-git remote add origin "link" /n
+git remote add origin "link" 
+
 git pull origin master/branch
 ### push
 1. ssh-keygen
@@ -17,7 +18,9 @@ git pull origin master/branch
 
 ## Making changes
 git status
+
 git add (-A)
+
 git commit (-a) -m "notes"
 
 ## Parallel Development
